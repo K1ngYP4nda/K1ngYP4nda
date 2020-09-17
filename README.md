@@ -1,7 +1,7 @@
 <h1>Programming enthusiast</h1>
 <h2>Python Developer</h2>
 
-[![Follow Me](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>] (https://twitter.com/S7v3nCoder)
+[![Follow Me](https://img.shields.io/twitter/follow/S7v3nCoder?color=1DA1F2&logo=twitter&style=for-the-badge] (https://twitter.com/S7v3nCoder)
 
 
 <img align="left" alt="Python" width="26px" src="https://banner2.cleanpng.com/20180506/ile/kisspng-python-programming-language-computer-programming-5aefaba25ef4a4.302516281525656482389.jpg" />

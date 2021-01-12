@@ -1,5 +1,5 @@
-<h1>Programming enthusiast</h1>
-<h2>Python Developer</h2>
+<h1>Programming Enthusiast</h1>
+<h2>Developer</h2>
 
 [![Follow Me](https://img.shields.io/twitter/follow/S7v3nCoder?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/S7v3nCoder)
 

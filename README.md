@@ -9,6 +9,8 @@
 <br>
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S7v3n)](https://github.com/anuraghazra/github-readme-stats)
+
 <img align="left" alt=" Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=K1ngYP4nda&show_icons=true&hide_border=true" />
 
 

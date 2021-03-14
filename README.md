@@ -4,17 +4,10 @@
 [![Follow Me](https://img.shields.io/twitter/follow/S7v3nCoder?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/S7v3nCoder)
 
 
-<img align="left" alt="Python" width="36px" src="https://banner2.cleanpng.com/20180506/ile/kisspng-python-programming-language-computer-programming-5aefaba25ef4a4.302516281525656482389.jpg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img src="https://64.media.tumblr.com/bc91fffa1f7f71014fddf10d3d2decbd/tumblr_pkxty5psM71sguk2k_500.gif" align=left> 
 
 
-<img align="left" alt="C++" width="36px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
-<img align="left" alt="C" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
-<img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<br />
-<br />
-<img align="left" alt="londarks's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=K1ngYP4nda&show_icons=true&hide_border=true" />
+<img align="left" alt=" Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=K1ngYP4nda&show_icons=true&hide_border=true" />
 
 
 

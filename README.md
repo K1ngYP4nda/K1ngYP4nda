@@ -5,7 +5,7 @@
 
 <h3> Olá, tenho 14 anos e estudo computação, postarei nesse github alguns dos meus projetos e exercicios de programação. </h3>
 
-<img src="https://64.media.tumblr.com/bc91fffa1f7f71014fddf10d3d2decbd/tumblr_pkxty5psM71sguk2k_500.gif" align=left> 
+<img src="https://i.imgur.com/bvmK0qM.gif" align=left> 
 <br>
 
 

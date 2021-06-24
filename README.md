@@ -3,7 +3,7 @@
 
 [![Follow Me](https://img.shields.io/twitter/follow/S7v3nCoder?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/S7v3nCB)
 
-<h3> Olá, tenho 14 anos e estudo computação, postarei nesse github alguns dos meus projetos e exercicios de programação. </h3>
+<h3> Olá, tenho 15".1" anos e estudo computação, postarei nesse github alguns dos meus projetos e exercicios de programação. </h3>
 
 <img src="https://i.imgur.com/bvmK0qM.gif" align=left> 
 <br>
